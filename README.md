@@ -157,4 +157,12 @@ results/
 
 thesis/
 └── Asset_Bubble_Detection_Thesis.pdf
+```
 
+---
+
+## Author
+
+Armin Chiani  
+Master's Degree in Economics  
+University of Turin
