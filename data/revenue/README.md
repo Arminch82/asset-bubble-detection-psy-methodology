@@ -1,2 +1,5 @@
-# Revenue
-Sales report for each stock during the testing period for price/sales specification.
+# Revenue data
+
+Quarterly company revenue data used to construct the Price-to-Sales specifications.
+
+The most recent available quarterly revenue observation is carried forward to match the monthly stock-price frequency.
