@@ -119,6 +119,21 @@ Basele, R. B., Phillips, P. C. B., & Shi, S. (2025). Speculative Bubbles in the 
 
 ---
 
+## Software
+
+The empirical analysis was conducted in R.
+
+Main packages include:
+
+- psymonitor
+- exuber
+- tidyquant
+- frenchdata
+- ggplot2
+- dplyr
+
+---
+
 ## Repository Structure
 
 ```text
