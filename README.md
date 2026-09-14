@@ -109,6 +109,16 @@ Near-unit-root severity analysis generally indicates strong persistence rather t
 
 ---
 
+Main References
+
+Phillips, P. C. B., Shi, S., & Yu, J. (2015). Testing for multiple bubbles: Historical episodes of exuberance and collapse in the S&P 500.
+
+Phillips, P. C. B. (2023). Estimation and inference with near unit roots.
+
+Basele, R. B., Phillips, P. C. B., & Shi, S. (2025). Speculative Bubbles in the Recent AI Boom: Nasdaq and the Magnificent Seven.
+
+---
+
 ## Repository Structure
 
 ```text
@@ -132,3 +142,4 @@ results/
 
 thesis/
 └── Asset_Bubble_Detection_Thesis.pdf
+
