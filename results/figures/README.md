@@ -1,2 +1,3 @@
 # Figures
-List of figures from the results of the PSY tests.
+
+Figures generated from the empirical analysis are stored here.
