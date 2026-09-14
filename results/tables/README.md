@@ -1,2 +1,2 @@
 # Tables 
-The tables of the test results.
+Empirical results tables are stored here.
