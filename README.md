@@ -109,7 +109,7 @@ Near-unit-root severity analysis generally indicates strong persistence rather t
 
 ---
 
-Main References
+## Main References
 
 Phillips, P. C. B., Shi, S., & Yu, J. (2015). Testing for multiple bubbles: Historical episodes of exuberance and collapse in the S&P 500.
 
