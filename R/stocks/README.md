@@ -1,2 +1,2 @@
 # Stock-level analysis
-R scripts for the seven Magnificent Seven stock analyses.
+This directory contains the stock-level empirical analyses for each of the Magnificent Seven companies.
